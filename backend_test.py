@@ -12,6 +12,8 @@ import time
 from datetime import datetime
 import os
 from pathlib import Path
+from PIL import Image, ImageDraw
+import io
 
 # Get backend URL from frontend .env file
 def get_backend_url():
