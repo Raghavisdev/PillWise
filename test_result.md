@@ -195,9 +195,9 @@ metadata:
 
 test_plan:
   current_focus:
-    - "Gemini integration for pill identification"
-    - "Image upload and processing endpoints"
     - "Camera and file upload UI"
+    - "Pill analysis results display"
+    - "Mobile responsive UI design"
   stuck_tasks: []
   test_all: false
   test_priority: "high_first"
